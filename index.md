@@ -6,3 +6,6 @@ I created two headers one saying hello and another saying what I do.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
